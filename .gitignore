@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
-        ffhq/
-        stylegan2-ada-pytorch/
-        weights/
+ffhq/
+stylegan2-ada-pytorch/
+weights/
